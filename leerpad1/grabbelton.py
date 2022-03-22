@@ -33,6 +33,7 @@ def test():
         )
         stringVar.set("de grabbelton is leeg")
 
+
 window = Tk()
 window.geometry("250x250")
 window.configure(bg = "cyan")
